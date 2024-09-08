@@ -1,0 +1,5 @@
+﻿  Final.NumberSystem.cpp
+C:\Users\Tasni\source\repos\Final.NumberSystem\Final.NumberSystem\Final.NumberSystem.cpp(23,24): error C2039: 'push_front': is not a member of 'std::vector<char,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      see declaration of 'std::vector<char,std::allocator<char>>'
+  
